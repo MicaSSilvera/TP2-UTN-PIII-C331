@@ -14,7 +14,7 @@ Instrucciones
 
 4.Configurar la Base de Datos
   Tener MySQL instalado y ejecutándose.
-  Usa el script SQL proporcionado en la carpeta data/ para crear la base de datos y las tablas que se necesitan.
+  Importar el archivo BD_TP2.sql en el MySQL para obtener la base de datos con todas las tablas y los datos.
 
 5.Ejecutar el Proyecto
  Inicia el servidor local con el siguiente comando:
